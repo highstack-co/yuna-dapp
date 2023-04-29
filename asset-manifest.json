@@ -4,8 +4,8 @@
     "static/js/0.86bafb8f.chunk.js.map": "https://dapp.yunatoken.io/static/js/0.86bafb8f.chunk.js.map",
     "main.js": "https://dapp.yunatoken.io/static/js/main.7283d629.chunk.js",
     "main.js.map": "https://dapp.yunatoken.io/static/js/main.7283d629.chunk.js.map",
-    "runtime-main.js": "https://dapp.yunatoken.io/static/js/runtime-main.302bce92.js",
-    "runtime-main.js.map": "https://dapp.yunatoken.io/static/js/runtime-main.302bce92.js.map",
+    "runtime-main.js": "https://dapp.yunatoken.io/static/js/runtime-main.f05ba143.js",
+    "runtime-main.js.map": "https://dapp.yunatoken.io/static/js/runtime-main.f05ba143.js.map",
     "static/js/3.3df9032a.chunk.js": "https://dapp.yunatoken.io/static/js/3.3df9032a.chunk.js",
     "static/js/3.3df9032a.chunk.js.map": "https://dapp.yunatoken.io/static/js/3.3df9032a.chunk.js.map",
     "static/js/4.0ae03095.chunk.js": "https://dapp.yunatoken.io/static/js/4.0ae03095.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/6.8f19063b.chunk.js.map": "https://dapp.yunatoken.io/static/js/6.8f19063b.chunk.js.map",
     "static/js/7.f4fa0a09.chunk.js": "https://dapp.yunatoken.io/static/js/7.f4fa0a09.chunk.js",
     "static/js/7.f4fa0a09.chunk.js.map": "https://dapp.yunatoken.io/static/js/7.f4fa0a09.chunk.js.map",
-    "static/js/8.5c99aa79.chunk.js": "https://dapp.yunatoken.io/static/js/8.5c99aa79.chunk.js",
-    "static/js/8.5c99aa79.chunk.js.map": "https://dapp.yunatoken.io/static/js/8.5c99aa79.chunk.js.map",
+    "static/js/8.63e01bf2.chunk.js": "https://dapp.yunatoken.io/static/js/8.63e01bf2.chunk.js",
+    "static/js/8.63e01bf2.chunk.js.map": "https://dapp.yunatoken.io/static/js/8.63e01bf2.chunk.js.map",
     "static/js/9.e613baa4.chunk.js": "https://dapp.yunatoken.io/static/js/9.e613baa4.chunk.js",
     "static/js/9.e613baa4.chunk.js.map": "https://dapp.yunatoken.io/static/js/9.e613baa4.chunk.js.map",
     "static/js/10.9ea74b1b.chunk.js": "https://dapp.yunatoken.io/static/js/10.9ea74b1b.chunk.js",
@@ -47,7 +47,7 @@
     "static/media/yuna_shape2.e4ec4646.png": "https://dapp.yunatoken.io/static/media/yuna_shape2.e4ec4646.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.302bce92.js",
+    "static/js/runtime-main.f05ba143.js",
     "static/js/3.3df9032a.chunk.js",
     "static/js/main.7283d629.chunk.js"
   ]
